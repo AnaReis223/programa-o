@@ -58,7 +58,7 @@ a{
 
 .item{
     display: flex;
-    align-items:flex-start;
+    justify-content: flex-end;
     border: 2px solid black;
     margin: 10px;
 }
