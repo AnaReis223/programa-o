@@ -43,3 +43,27 @@ a{
     padding: 10px;
     background-color: #b00c22;
 }
+
+.flex{
+    min-height: 100vh;
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem{
+    width:400px;
+    height:auto;
+}
+
+.item{
+    display: flex;
+    align-items:flex-start;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.paragrafo{
+    padding: 10px;
+    text-align: justify;
+}
